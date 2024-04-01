@@ -3,5 +3,6 @@ Report any bugs to me this my second week of learning python some Im still new t
 <h3>version 0.0.1 Realease version:</h3>
 <ul>
   <ol> Solves any arthimetic expression including less then, greater then and equal to.</ol>
+  <ol> Ability to solve complex expressions</ol>
 </ul>
 
