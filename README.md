@@ -1,8 +1,8 @@
-<p>Welcome to the arithmetic terimulatour where you can solve any math problem open the program by writing python3 math-bot.py.
-Report any bugs to me this my second week of learning python some Im still new to this.</p>
-<h3>Version 1.0 Realease Version:</h3>
+<p>Welcome to the <strong>TWFD Terminal</strong>! Here you can use the help command to find the list of commands to use in our terminal right now the terminal is only capable of completing arithmetic expressionhowever more is coming to the terminal soon</h3>
 <ul>
   <ol> Solves any arthimetic expression including less then, greater then and equal to.</ol>
   <ol> Ability to solve complex expressions</ol>
+  <ol> version command to see the version number of the software where it will soon display all update information.</ol>
 </ul>
 
+ 
