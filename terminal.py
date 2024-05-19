@@ -37,13 +37,14 @@ def main():
         print("what is your name: ")
         name = get_user_input("")
         print("Your name is " + name + ". Welcome to TWFD Terminal!")
+        input("Press Enter to continue")
     except Exception as e:
         print("Error", e)
 
     
     while True:
         print("(Use 'help' for list of commands or 'quit' to exit):")
-        expression = get_user_input("")
+        expression = get_user_input("Command >> ")
         if expression.lower() == 'quit':
             print("Exiting...")
             break
